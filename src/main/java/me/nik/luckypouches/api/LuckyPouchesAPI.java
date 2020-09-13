@@ -1,4 +1,12 @@
 package me.nik.luckypouches.api;
 
-public class LuckyPouchesAPI {
+import org.bukkit.entity.Player;
+
+public interface LuckyPouchesAPI {
+
+    void registerAnimation(AnimationType animation);
+
+    void registerCurrency(CurrencyType currency);
+
+    long giveReward(Player player, Pouch pouch);
 }

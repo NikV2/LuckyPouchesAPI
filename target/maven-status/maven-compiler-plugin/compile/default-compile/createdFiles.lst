@@ -1,1 +1,5 @@
 me\nik\luckypouches\api\LuckyPouchesAPI.class
+me\nik\luckypouches\api\Pouch.class
+me\nik\luckypouches\api\LuckyPouchesAPIProvider.class
+me\nik\luckypouches\api\AnimationType.class
+me\nik\luckypouches\api\CurrencyType.class
