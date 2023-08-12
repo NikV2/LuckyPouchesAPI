@@ -1,6 +1,9 @@
 ---
-name: Perfomance Issue about: The plugin is causing Perfomance Issues title: "[PERFOMANCE]"
-labels: Perfomance assignees: NikV2
+name: Perfomance Issue
+about: The plugin is causing Perfomance Issues
+title: "[PERFOMANCE]"
+labels: Perfomance
+assignees: NikV2
 
 ---
 
