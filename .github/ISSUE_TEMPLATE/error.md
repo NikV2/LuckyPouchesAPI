@@ -1,6 +1,9 @@
 ---
-name: Error about: Report an error. title: "[ERROR]"
-labels: Error assignees: NikV2
+name: Error
+about: Report an error.
+title: "[ERROR]"
+labels: Error
+assignees: NikV2
 
 ---
 
