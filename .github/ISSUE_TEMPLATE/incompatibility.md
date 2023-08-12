@@ -1,6 +1,9 @@
 ---
-name: Incompatibility about: Report a plugin that does not run well with this one. title: "[INCOMPATIBILITY]"
-labels: Incompatibility assignees: NikV2
+name: Incompatibility
+about: Report a plugin that does not run well with this one.
+title: "[INCOMPATIBILITY]"
+labels: Incompatibility
+assignees: NikV2
 
 ---
 
